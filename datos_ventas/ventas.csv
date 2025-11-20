@@ -1,1 +1,10 @@
+Fecha,ID_Venta,Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Vendedor,Sucursal
+2025-02-01,2001,Teclado Gamer Retroiluminado,Electrónica,1,45.90,45.90,Lucía Torres,Quito
+2025-02-01,2002,Audífonos Over-Ear,Electrónica,2,32.50,65.00,Marco Ruiz,Guayaquil
+2025-02-02,2003,Café Orgánico 250g,Alimentos,3,6.80,20.40,Elena Bravo,Cuenca
+2025-02-03,2004,Cuaderno Universitario,Papelería,4,1.80,7.20,Lucía Torres,Quito
+2025-02-03,2005,Bebida Energética 500ml,Bebidas,5,1.50,7.50,Marco Ruiz,Guayaquil
+2025-02-04,2006,Mouse Gamer RGB,Electrónica,1,28.90,28.90,Elena Bravo,Cuenca
+2025-02-05,2007,Chocolate Premium 120g,Alimentos,6,2.10,12.60,Lucía Torres,Quito
+2025-02-05,2008,Agenda 2025,Oficina,2,9.50,19.00,Marco Ruiz,Guayaquil
 
