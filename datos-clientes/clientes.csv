@@ -1,1 +1,10 @@
+ID_Cliente,Nombre,Apellido,Correo,Telefono,Ciudad,Fecha_Registro
+C001,Ana,Montenegro,ana.montenegro@email.com,0991234567,Quito,2024-11-10
+C002,Roberto,Salazar,roberto.salazar@email.com,0987654321,Guayaquil,2024-11-12
+C003,Valeria,Santos,valeria.santos@email.com,0975544332,Cuenca,2024-11-15
+C004,Carlos,Paredes,carlos.paredes@email.com,0966677889,Quito,2024-12-01
+C005,María,Lozano,maria.lozano@email.com,0952233445,Guayaquil,2024-12-05
+C006,Josué,Mora,josue.mora@email.com,0981122334,Cuenca,2024-12-08
+C007,Sofía,Ramírez,sofia.ramirez@email.com,0999988776,Quito,2024-12-10
+C008,Daniel,Reyes,daniel.reyes@email.com,0976655443,Guayaquil,2024-12-12
 
